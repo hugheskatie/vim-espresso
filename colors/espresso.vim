@@ -11,7 +11,7 @@ let g:colors_name="espresso"
 
 if &t_Co > 255
   hi Normal guifg=#eeeeec guibg=#353535 ctermfg=254 ctermbg=236
-  hi Comment guifg=#bcbcbc guibg=#353535 ctermfg=250 ctermbg=236 gui=italic 
+  hi Comment guifg=#bcbcbc guibg=#353535 ctermfg=250 ctermbg=236 gui=italic
   hi CursorColumn guibg=#535353 ctermbg=240
   hi ColorColumn guibg=#8a8a8a ctermbg=245
   hi CursorLine guibg=#535353 ctermbg=240 cterm=none gui=none
@@ -85,6 +85,6 @@ if &t_Co > 255
   hi WarningMsg guifg=#ffffff guibg=#5b5b5b ctermfg=231 ctermbg=240 cterm=bold gui=bold
   hi WildMenu guifg=#323232 guibg=#bed6ff ctermfg=236 ctermbg=153
   hi LineNr guifg=#a5c261 guibg=#3a3a3a ctermfg=149 ctermbg=237
-  hi NonText guifg=#d197d9 ctermfg=176
+  hi NonText guifg=#949494 ctermfg=246
   hi SpecialKey guifg=#efb5f7 ctermfg=219
 end
