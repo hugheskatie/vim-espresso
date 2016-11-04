@@ -44,7 +44,7 @@ if &t_Co > 255
   hi Keyword guifg=#ff87af ctermfg=211 cterm=bold gui=bold
   hi Label guifg=#8ab7d9 ctermfg=110 cterm=none gui=none
   hi Macro guifg=#ffe48b ctermfg=228
-  hi SpecialKey guifg=#efb5f7 ctermfg=219
+  hi SpecialKey guifg=#949494 ctermfg=246
   hi MatchParen guifg=#d25252 guibg=#5b5b5b ctermfg=167 ctermbg=240 cterm=bold gui=bold
   hi ModeMsg guifg=#ffc66d ctermfg=221
   hi MoreMsg guifg=#ffc66d ctermfg=221
